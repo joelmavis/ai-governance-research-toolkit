@@ -1,5 +1,5 @@
-# Templates
+# 模板
 
-Reusable, human-readable and machine-readable templates for literature notes, policy analysis, research notes, and case studies.
+这里存放文献笔记、政策分析、研究笔记和案例研究的可复用模板，同时兼顾人类可读性与机器可处理性。
 
-Templates will be added after their associated research workflows have been tested manually.
+模板将在其对应研究工作流经过人工测试后再加入。
