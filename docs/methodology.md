@@ -1,27 +1,27 @@
-# Methodology
+# 方法论
 
-## Purpose
+## 目的
 
-This toolkit turns stable research workflows into reusable infrastructure. It supports research on AI governance, technological sovereignty, European technology politics, and global power.
+本工具包将稳定的研究工作流转化为可复用的基础设施，服务于 AI 治理、技术主权、欧洲科技政治与全球权力研究。
 
-## Research boundary
+## 研究边界
 
-Systems can collect public materials, extract metadata, deduplicate records, generate structured drafts, and maintain traceable records. They do not determine conceptual definitions, evidence quality, causal claims, policy meaning, or final conclusions.
+系统可以收集公开材料、提取元数据、去重记录、生成结构化草稿和维护可追溯记录；但不决定概念定义、证据质量、因果主张、政策含义或最终结论。
 
-## Provenance
+## 溯源
 
-No provenance, no serious research asset. Where relevant, retained records should include the source URL, author or institution, publication date, version, retrieval date, research track, tags, reliability information, and processing status.
+没有溯源，就没有严肃的研究资产。保留的记录应在适用时包含来源链接、作者或机构、发布日期、版本、获取日期、研究线索、标签、可靠性信息和处理状态。
 
-## Human review
+## 人工审阅
 
-Human review is required where a workflow makes or depends upon a research judgment: inclusion and exclusion decisions, taxonomy changes, source authority, evidence evaluation, interpretation, and conclusions.
+当工作流作出或依赖研究判断时，必须经过人工审阅：包括纳入与排除决定、分类体系调整、来源权威性、证据评估、解释与结论。
 
-## Engineering principle
+## 工程原则
 
-Manual → understand → stabilise → engineer → validate → maintain.
+手动执行 → 理解流程 → 稳定流程 → 工程化 → 验证 → 维护。
 
-Automation is appropriate only after a workflow has repeated, its inputs and outputs are clear, and its mechanical steps can be separated from intellectual judgment.
+只有当流程已重复发生、输入输出清晰，且机械步骤能与智识判断分离时，才适合自动化。
 
-## Reproducibility
+## 可复现性
 
-Tools should make their input, instructions, schema, versions, dependencies, and known limitations explicit. The objective is a stable, traceable output structure under the same input and research rules.
+工具应明确其输入、指令、结构、版本、依赖与已知限制。目标是在相同输入和研究规则下，获得稳定、可追溯的输出结构。
