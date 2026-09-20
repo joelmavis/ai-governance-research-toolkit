@@ -1,21 +1,21 @@
-# Roadmap
+# 路线图
 
-## Phase 1 — Foundation
+## 第一阶段 — 基础建设
 
-- [x] Repository structure
-- [x] Research methodology
-- [ ] Core templates
+- [x] 仓库结构
+- [x] 研究方法论
+- [ ] 核心模板
 
-## Phase 2 — Core Skills
+## 第二阶段 — 核心技能
 
-- [ ] Learning Assistant
-- [ ] Intelligence Radar
-- [ ] Research Assistant
-- [ ] Fact Checker
-- [ ] Research-to-Content Assistant
+- [ ] 学习助手
+- [ ] 情报雷达
+- [ ] 研究助手
+- [ ] 事实核查器
+- [ ] 研究转内容助手
 
-## Phase 3 — Advanced Research Tools
+## 第三阶段 — 进阶研究工具
 
-- [ ] EU / US / China Governance Comparison
-- [ ] Enterprise AI Governance Analyzer
-- [ ] Research Database
+- [ ] 欧盟 / 美国 / 中国治理比较
+- [ ] 企业 AI 治理分析器
+- [ ] 研究数据库
