@@ -7,6 +7,7 @@
 ## 已有技能
 
 - [源锚（Sourcebound）](sourcebound/README.md) — 将用户提供的学习材料转化为忠于原文、可继续用于研究的结构化学习笔记。
+- [界标（Meridian）](meridian/README.md) — 从高质量来源中筛选每天最多三个值得继续研究的情报信号。
 
 ## 命名方式
 
