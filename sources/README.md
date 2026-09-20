@@ -1,5 +1,5 @@
-# Sources
+# 来源
 
-Curated public source lists for AI governance and technology politics.
+这里存放 AI 治理与科技政治的精选公开来源清单。
 
-Entries should retain a public URL and enough metadata to establish provenance. This repository does not store copyrighted books, papers, or reports unless their licences explicitly permit it.
+每一条目都应保留公开链接和足以建立溯源关系的元数据。除非许可明确允许，本仓库不保存受版权保护的书籍、论文或报告。
