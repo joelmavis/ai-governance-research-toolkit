@@ -1,13 +1,13 @@
-# Contributing
+# 贡献指南
 
-This repository is intended to be useful, inspectable research infrastructure.
+本仓库旨在成为有用、可检查的公开研究基础设施。
 
-Before proposing a change, keep these boundaries clear:
+提出修改前，请遵守以下边界：
 
-- Preserve provenance: record source URLs, institutions, publication dates, versions, and retrieval dates where applicable.
-- Do not treat automated extraction, classification, or summarisation as research judgment.
-- Do not add copyrighted source materials. Store public links and explanatory metadata instead.
-- Keep reusable structures human-readable as well as machine-readable.
-- Document assumptions, limitations, and required human review.
+- 保留溯源信息：在适用时记录来源链接、机构、发布日期、版本与获取日期。
+- 不将自动提取、分类或摘要视为研究判断。
+- 不添加受版权保护的原始材料；请保存公开链接与必要的说明性元数据。
+- 可复用结构应同时便于人类阅读与机器处理。
+- 记录假设、限制与必要的人工审阅环节。
 
-Please open an issue before proposing a substantial new framework or skill so that its research scope and maintenance cost can be assessed first.
+如需提出重要的新框架或新技能，请先创建 Issue，以便评估其研究范围与维护成本。
