@@ -1,74 +1,74 @@
 # AI Governance Research Toolkit
 
-Open research infrastructure for studying AI governance, technological sovereignty, European tech politics, and global power.
+面向 AI 治理、技术主权、欧洲科技政治与全球权力研究的开放研究基础设施。
 
-Created by **咖喱辣椒Joe**.
+由 **咖喱辣椒Joe** 创建。
 
-## Why this project
+## 为什么建立这个项目
 
-AI governance is increasingly connected to technology, sovereignty, security, industrial policy, and global power.
+AI 治理日益与技术、主权、安全、产业政策和全球权力相互连接。
 
-This repository develops practical research tools for people studying these changes. Its purpose is not to automate intellectual judgment. It is to reduce repetitive research work while making research more structured, transparent, and reusable.
+本仓库为研究这些变化的人提供实用工具。目标不是自动化智识判断，而是在不取代判断的前提下，减少重复劳动，使研究更结构化、更透明、更可复用。
 
-## Research Focus
+## 研究方向
 
-- AI Governance
-- Technological Sovereignty
-- European Tech Politics
-- US–China–EU Technology Relations
-- AI Safety & Security
-- AI Infrastructure & Political Economy
+- AI 治理
+- 技术主权
+- 欧洲科技政治
+- 中美欧技术关系
+- AI 安全与保障
+- AI 基础设施与政治经济学
 
-## What You'll Find Here
+## 这里有什么
 
-### Skills
+### 技能
 
-Reusable Agent Skills for research workflows.
+服务于研究工作流的可复用智能体技能。
 
-### Research
+### 研究
 
-Research frameworks and analytical methods.
+研究框架与分析方法。
 
-### Templates
+### 模板
 
-Reusable templates for reading, policy analysis, and research notes.
+用于阅读、政策分析和研究笔记的可复用模板。
 
-### Sources
+### 来源
 
-Curated source lists for AI governance and technology politics.
+AI 治理与科技政治的精选公开来源清单。
 
-### Examples
+### 示例
 
-Examples showing how the tools can be used in real research.
+展示工具如何在真实研究问题中使用的示例。
 
-## Planned Skills
+## 计划中的技能
 
-- Learning Assistant
-- Intelligence Radar
-- Research Assistant
-- Fact Checker
-- Research-to-Content Assistant
+- 学习助手
+- 情报雷达
+- 研究助手
+- 事实核查器
+- 研究转内容助手
 
-## Research Principle
+## 研究原则
 
-> Evidence before opinion.  
-> Definitions before slogans.  
-> Research before expression.
+> 证据先于观点。<br>
+> 定义先于口号。<br>
+> 研究先于表达。
 
-## Current Research Spine
+## 当前研究主线
 
-**AI, Technological Sovereignty and Global Power**
+**AI、技术主权与全球权力**
 
-Using Europe as a primary vantage point to study how AI is reshaping sovereignty, strategic autonomy, economic competition, and global power.
+以欧洲为主要观察点，研究 AI 如何重塑主权、战略自主、经济竞争与全球权力。
 
-## Status
+## 当前状态
 
-Early-stage project. The repository is being built and tested through real research workflows.
+项目处于早期阶段，正通过真实研究工作流持续建设与测试。
 
-## Author
+## 创建者
 
 **咖喱辣椒Joe**
 
-European Studies × AI Product & GTM
+欧洲研究 × AI 产品与 GTM
 
-Researching AI governance, technological sovereignty, European tech politics, and global power.
+关注 AI 治理、技术主权、欧洲科技政治与全球权力。
