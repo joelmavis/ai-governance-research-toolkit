@@ -1,5 +1,5 @@
-# Research
+# 研究
 
-Research frameworks and analytical methods for AI governance, technological sovereignty, comparative governance, and technology politics.
+这里存放 AI 治理、技术主权、比较治理与科技政治相关的研究框架和分析方法。
 
-Only mature, shareable frameworks belong here. Working notes and private research materials do not.
+这里只收录成熟、适合公开共享的框架；工作笔记和私人研究材料不应放入本目录。
