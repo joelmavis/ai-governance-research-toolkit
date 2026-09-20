@@ -1,0 +1,19 @@
+# Operating-system files
+.DS_Store
+Thumbs.db
+
+# Local editor settings
+.idea/
+.vscode/
+
+# Local research material and generated outputs
+private/
+data/
+outputs/
+*.pdf
+*.docx
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
