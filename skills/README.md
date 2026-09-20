@@ -1,5 +1,9 @@
-# Skills
+# 技能
 
-This directory will contain reusable Agent Skills for stable research workflows.
+这里存放服务于稳定研究工作流的可复用智能体技能。
 
-Each skill should document its purpose, inputs, outputs, research rules, human-review points, limitations, examples, and version. A skill may reduce mechanical work; it must not replace evidence evaluation or interpretive judgment.
+每个技能都应说明目的、输入、输出、研究规则、人工审阅点、限制、示例与版本。技能可以减少机械劳动，但不能替代证据评估或解释性判断。
+
+## 已有技能
+
+- [学习助手](learning-assistant/README.md) — 将用户提供的学习材料转化为忠于原文、可继续用于研究的结构化学习笔记。
