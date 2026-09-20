@@ -1,5 +1,5 @@
-# Examples
+# 示例
 
-Examples will demonstrate how a tool or template supports a real research question while preserving sources, uncertainty, and human review.
+示例将展示工具或模板如何支持真实研究问题，同时保留来源、不确定性与人工审阅。
 
-Examples must not present generated interpretation as established fact.
+示例不得将生成的解释表述为既定事实。
